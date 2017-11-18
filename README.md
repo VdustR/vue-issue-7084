@@ -42,5 +42,5 @@ Downgrade the vue(vue-template-compiler exactly) in the reproduction to 2.5.4 an
 BTW,
 Production vue.js works fine -> [CodePen](https://codepen.io/VdustR/pen/vWpOvv)
 
-[vue#7084](https://github.com/vuejs/vue/issues/7084)
-[vue-material#1167](https://github.com/vuematerial/vue-material/issues/1167)
+* [vue#7084](https://github.com/vuejs/vue/issues/7084)
+* [vue-material#1167](https://github.com/vuematerial/vue-material/issues/1167)
