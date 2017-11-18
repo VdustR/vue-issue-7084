@@ -35,7 +35,7 @@ The new improvements from v2.5.5
 
 > warn if both v-model and v-bind:value are used on same element
 
-is conflicted with [Customizing Component `v-model`](https://vuejs.org/v2/guide/components.html#Customizing-Component-v-model).
+conflicts with [Customizing Component `v-model`](https://vuejs.org/v2/guide/components.html#Customizing-Component-v-model).
 
 Downgrade the vue(vue-template-compiler exactly) in the reproduction to 2.5.4 and it will be compiled successfully.
 
