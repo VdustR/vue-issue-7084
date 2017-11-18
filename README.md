@@ -6,7 +6,7 @@
 
 ### Reproduction link
 
-[https://github.com/VdustR/vue-model-issue-reproduction](https://github.com/VdustR/vue-model-issue-reproduction)
+[https://github.com/VdustR/vue-issue-7084](https://github.com/VdustR/vue-issue-7084)
 
 ### Steps to reproduce
 
