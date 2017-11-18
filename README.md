@@ -1,4 +1,4 @@
-# checking both v-model and v-bind:value used on same element is conflicted with customizing component v-model
+# checking both v-model and v-bind:value used on same element conflicts with customizing component v-model
 
 ### Version
 
